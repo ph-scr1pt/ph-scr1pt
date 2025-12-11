@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🧑‍🎓 16 anos | Estudante de programação
+- 🧑‍🎓 17 anos | Estudante de programação
 - 🐍 Focado em aprender **Python** e **banco de dados SQL**
 - 🎯 Desenvolvendo projetos com interfaces em **Tkinter** e **SQLite**
 - 🧠 Sempre em busca de melhorar meu código e aprender algo novo
@@ -22,14 +22,6 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ph-scr1pt&show_icons=true&theme=tokyonight&hide_title=true" />
-</p>
 
 ---
 
